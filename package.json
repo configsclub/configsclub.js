@@ -1,0 +1,23 @@
+{
+  "name": "@ssmidgedev/configsclub.js",
+  "version": "1.0.0",
+  "description": "Configs.Club's official NodeJS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ssmidge",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/configsclub/configsclub.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/configsclub/configsclub.js/issues"
+  },
+  "homepage": "https://configs.club",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
